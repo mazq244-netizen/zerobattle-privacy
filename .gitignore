@@ -1,0 +1,4 @@
+# Private trading state: configs (SEC contact), plans, orders, approvals, logs
+trader/
+__pycache__/
+.claude/settings.local.json
