@@ -6,7 +6,9 @@
       "mcp__alpaca__cancel_order_by_id",
       "mcp__alpaca__replace_order_by_id",
       "mcp__alpaca__update_account_config",
-      "Bash(python3 *crypto.py* ticket place*)"
+      "Bash(python3 *crypto.py* ticket place*)",
+      "Bash(python3 *alpaca_paper.py* place*)",
+      "Bash(python3 *alpaca_paper.py* close*)"
     ],
     "deny": [
       "mcp__alpaca__place_crypto_order",
